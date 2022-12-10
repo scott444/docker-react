@@ -1,0 +1,1 @@
+docker run -p 3000:3000 -v /app/node_modules -v "C:\devgit\Fyin\DockerCompose-Examples\Docker and Kubernetes - The Complete Guide\React\frontend":/app 17ece07b995e427e8aa5c72afef5424fd2985d965cb4454cc7ede79b44a89793
